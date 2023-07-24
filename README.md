@@ -3,6 +3,12 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+## to do 
+delete machines
+edit machines
+set time to report
+select type of report your requesting 
+
 ## General info
 project developed for analysing the mode of travel of a forklift vehicle and to check if the driver is watching that way
 
